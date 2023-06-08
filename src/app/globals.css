@@ -4,5 +4,5 @@
 
 
 body {
-  @apply bg-black font-heebo
+  @apply bg-gray-900 font-heebo
 }
