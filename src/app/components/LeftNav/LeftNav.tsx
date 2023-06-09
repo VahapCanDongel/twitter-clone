@@ -4,7 +4,7 @@ import TweetButton from "./TweetButton";
 const LeftNav = () => {
   return (
     <div className="w-[33%] flex flex-col items-center p-4">
-      <div className="flex flex-col gap-2">
+      <div className="flex flex-col gap-6">
         <svg
           width="40"
           height="40"
